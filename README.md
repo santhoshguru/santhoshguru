@@ -6,7 +6,7 @@ Most recently **VP of Products at ZEPIC**, where I led product 0→1 on an AI-na
 
 What I'm probably best known for in the work:
 
-- **SaaS pricing across every model.** Hands-on with MUV, contact-based, volume, tiered, seats, usage, credits, packaging consolidation, and migrations — Zarget through Freshworks' pre-IPO overhaul and again at ZEPIC. Multi-product Customer Cloud packaging at Freshworks was mine.
+- **SaaS pricing across every model.** Hands-on with MUV, contact-based, volume, tiered, seats, usage, credits, packaging consolidation, and migrations.
 - **Building 0→1 in AI-native B2B.** Custom-objects-as-foundation architecture at ZEPIC; LLM copilots that compose deterministic flows; pricing for AI products where the unit isn't a seat anymore.
 - **Customer engagement, CDP, marketing automation.** Identity resolution, cross-channel activation (email, WhatsApp, Instagram), and the GTM-product fit problem for usage-priced products.
 
