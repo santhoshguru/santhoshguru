@@ -1,8 +1,8 @@
 ### Hi, I'm Santhosh 👋
 
-Product manager — twenty-plus years in B2B SaaS. Currently writing while I figure out what to build next.
+Engineer turned Product manager — twenty-plus years in B2B SaaS. Currently writing while I figure out what to build next.
 
-Most recently **VP of Products at ZEPIC**, where I led product 0→1 on an AI-native customer engagement platform — shipped the data model (custom objects as foundation), the automation engine (Flows), the AI copilot (Zenie), credits-based pricing, and 50+ integrations. Before that: **six years at Freshworks** (Group PM, CRM-BU pricing through the NASDAQ IPO), a year at HappyFox, and **a decade at SAP Labs** (engineer → architect → accidental PM on the Business ByDesign / PDI platform).
+Most recently **VP of Products at ZEPIC**, where I led product 0→1 on an AI-native customer engagement platform — shipped the data model (custom objects as foundation), the automation engine (Flows), the AI copilot (Zenie), credits-based pricing, and 50+ integrations. Before that: **sever years at Freshworks**, and **a decade at SAP Labs**.
 
 What I'm probably best known for in the work:
 
@@ -22,10 +22,9 @@ These wikis are also a small statement about what a PM role looks like in 2026: 
 
 - AI-native product architectures where a deterministic UX wraps non-deterministic LLM nodes (vs. "chat with X" as the default UI)
 - Pricing models for AI products — credits, outcomes, hybrid; what survives the metering complexity
-- The interoceptive side of taste — paying close attention to what's *actually* there in a product, in a market, in another person — before reaching for the summary
+- The million-dollar-quest on **taste** — paying close attention to what's *actually* there in a product, in a market, in another person — before reaching for the summary
 
 ### Find me
 
 - Email: [santhoshguru@gmail.com](mailto:santhoshguru@gmail.com)
 - LinkedIn: [linkedin.com/in/santhoshguru](https://linkedin.com/in/santhoshguru)
-- The wikis are the best window into how I think.
